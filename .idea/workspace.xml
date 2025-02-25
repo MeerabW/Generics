@@ -9,9 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81892f61-8e0e-4578-b0ea-99f9d9978111" name="Changes" comment="add creation of needed classes">
+    <list default="true" id="81892f61-8e0e-4578-b0ea-99f9d9978111" name="Changes" comment="add forgotten UML Diagram">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GenericUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UtilsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.StackTest.executor": "Run",
+    "Application.UtilsTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -127,7 +128,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740491498774</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add implementation of GenericUtils">
+      <option name="closed" value="true" />
+      <created>1740493347076</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740493347076</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add forgotten UML Diagram">
+      <option name="closed" value="true" />
+      <created>1740495001751</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740495001751</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,10 +179,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add full implementation of the Exception classes" />
     <MESSAGE value="add full implementation of Stack.java" />
-    <MESSAGE value="add forgotten UML Diagram" />
     <MESSAGE value="add complete implementation of the testclass" />
     <MESSAGE value="add jar file for execution" />
     <MESSAGE value="add creation of needed classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add creation of needed classes" />
+    <MESSAGE value="add implementation of GenericUtils" />
+    <MESSAGE value="add forgotten UML Diagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="add forgotten UML Diagram" />
   </component>
 </project>
